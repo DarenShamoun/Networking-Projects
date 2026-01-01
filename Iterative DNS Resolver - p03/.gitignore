@@ -1,0 +1,9 @@
+.nfs*
+
+*.swp
+*.pyc
+*.dSYM
+.DS_Store
+*vscode*
+
+output.log

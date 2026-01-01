@@ -1,0 +1,23 @@
+2025-12-05 14:59:42.572 [Debug] (send_ack) sending ACK(2)
+2025-12-05 14:59:42.572 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 14:59:42.572 [Info] (set_timeout_length) Setting timeout to 240 ms
+2025-12-05 14:59:42.573 [Info] (accept_connection) Connection established successfully
+2025-12-05 14:59:42.573 [Info] (accept_connection) Connection successfully established
+2025-12-05 14:59:42.573 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 14:59:42.574 [Debug] (receive_data) Received 116 bytes of data.
+2025-12-05 14:59:42.574 [Info] (receive_data) Received segment: {RDT_DATA: seq=0, ack=0, payload=110 bytes}
+2025-12-05 14:59:42.574 [Debug] (send_ack) sending ACK(0)
+2025-12-05 14:59:42.574 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 14:59:42.574 [Info] (main) received 110 bytes of app data
+2025-12-05 14:59:42.574 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 14:59:42.574 [Debug] (receive_data) Received 6 bytes of data.
+2025-12-05 14:59:42.574 [Info] (receive_data) Received segment: {RDT_CLOSE: seq=4, ack=0, payload=0 bytes}
+2025-12-05 14:59:42.574 [Debug] (receive_data) Received close request.
+2025-12-05 14:59:42.574 [Debug] (send_ack) sending ACK(4)
+2025-12-05 14:59:42.574 [Debug] (send) Unreliable send of 6 bytes of data
+
+Received 110 bytes in 0.00242567 seconds (45348.3 Bps)
+
+Finished receiving file, closing socket.
+2025-12-05 14:59:42.575 [Debug] (close_connection) Receiving closing its connection.
+2025-12-05 14:59:42.575 [Info] (set_timeout_length) Setting timeout to 2000 ms

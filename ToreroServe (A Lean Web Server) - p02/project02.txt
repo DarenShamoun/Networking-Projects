@@ -1,0 +1,41 @@
+COMP 375 - Project 2 (Web Server)
+
+1. Partner A's FULL Name: Daren Shamoun
+   Partner A's USD Email Address: darenshamoun@sandiego.edu
+   Partner B's FULL Name: Phillip M Banky
+   Partner B's USD Email Address: pbanky@sandiego.edu
+
+
+2. A typed copy of USD's academic integrity pledge, followed by each partners'
+   typed initials (as a way of "signing the pledge.").
+
+   The academic integrity pledge can be found on page 3 of
+   the document found here: https://www.sandiego.edu/conduct/documents/HonorCode.pdf
+   To be clear, it is the text that starts, "I pledge to demonstrate...".
+   “I pledge to demonstrate personal and academic integrity in all matters with my fellow
+students, the faculty, and the administration here at USD. I promise to be honest and
+accountable for my actions; and to uphold the statutes of scholastic honesty to better
+myself and those around me.”
+PMB
+DS
+
+
+3. The estimated number of hours spent working on the project.
+		- Time spent partner A spent working alone: 6
+		- Time spent partner B spent working alone: 6
+		- Time spent working together: 2 hours
+
+
+4. A list of missing features and/or known bugs. (Put "None if there aren't
+   any.)
+   styled.css -> styled.html (your bug tho)
+
+
+5. Did you submit on time? (If not, you will be charged one comp375 buck.)
+Yes
+
+
+6. (Optional) Any feedback you with to give me relating the project (e.g. Was it
+   interesting? How could it be improved?)
+   Super interesting project, it was fun, just the right amount of helper functions that we weren't as in the dark as P01
+   

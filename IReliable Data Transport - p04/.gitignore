@@ -1,0 +1,13 @@
+# executables
+sender
+receiver
+
+# generic c/c++ files
+*.o
+
+# misc
+*.swp
+*.dSYM
+.vscode
+.DS_Store
+.nfs*

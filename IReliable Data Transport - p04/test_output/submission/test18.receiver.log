@@ -1,0 +1,31 @@
+2025-12-05 15:02:00.865 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:02:00.865 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:02:00.865 [Info] (set_timeout_length) Setting timeout to 240 ms
+2025-12-05 15:02:01.108 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:02:01.108 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:02:01.277 [Info] (accept_connection) Connection established successfully
+2025-12-05 15:02:01.277 [Info] (accept_connection) Connection successfully established
+2025-12-05 15:02:01.277 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:02:01.354 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:02:01.354 [Info] (receive_data) Received segment: {RDT_DATA: seq=0, ack=0, payload=1394 bytes}
+2025-12-05 15:02:01.354 [Debug] (send_ack) sending ACK(0)
+2025-12-05 15:02:01.354 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:02:01.354 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:02:01.354 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:02:01.498 [Debug] (receive_data) Received 328 bytes of data.
+2025-12-05 15:02:01.498 [Info] (receive_data) Received segment: {RDT_DATA: seq=1, ack=0, payload=322 bytes}
+2025-12-05 15:02:01.498 [Debug] (send_ack) sending ACK(1)
+2025-12-05 15:02:01.498 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:02:01.498 [Info] (main) received 322 bytes of app data
+2025-12-05 15:02:01.498 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:02:01.951 [Debug] (receive_data) Received 6 bytes of data.
+2025-12-05 15:02:01.951 [Info] (receive_data) Received segment: {RDT_CLOSE: seq=4, ack=0, payload=0 bytes}
+2025-12-05 15:02:01.951 [Debug] (receive_data) Received close request.
+2025-12-05 15:02:01.951 [Debug] (send_ack) sending ACK(4)
+2025-12-05 15:02:01.951 [Debug] (send) Unreliable send of 6 bytes of data
+
+Received 1716 bytes in 0.675868 seconds (2538.96 Bps)
+
+Finished receiving file, closing socket.
+2025-12-05 15:02:01.953 [Debug] (close_connection) Receiving closing its connection.
+2025-12-05 15:02:01.953 [Info] (set_timeout_length) Setting timeout to 2000 ms

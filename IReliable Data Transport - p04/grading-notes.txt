@@ -1,0 +1,5 @@
+Overall Grade: 0.5 (FAIL: Minor modification(s) required.)
+
+Additional Notes:
+- FAIL: Did not complete "hours spent working on project" section of project04.txt
+- FAIL: Need to have some more comments inside of functions (e.g. in the send_until_acked function)

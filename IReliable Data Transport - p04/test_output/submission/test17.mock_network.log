@@ -1,0 +1,206 @@
+2025-12-05 15:01:48,242 INFO       Starting UDP proxy...
+2025-12-05 15:01:48,242 INFO       Src: 127.0.0.1:8099
+2025-12-05 15:01:48,242 INFO       Dst: 127.0.0.1:9099
+2025-12-05 15:01:48,242 INFO       Loss Rate: 25.0%
+2025-12-05 15:01:48,242 INFO       Median Delay: 40ms
+2025-12-05 15:01:50,227 DEBUG      Received 6 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:50,227 DEBUG      	type = 2, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:50,227 DEBUG      Forwarding segment with delay of 40ms
+2025-12-05 15:01:50,268 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:50,268 DEBUG      	type = 1, seq = 0, ack = 2, payload_len = 0
+2025-12-05 15:01:50,268 DEBUG      Forwarding segment with delay of 35ms
+2025-12-05 15:01:50,304 DEBUG      Received 6 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:50,304 DEBUG      	type = 1, seq = 0, ack = 3, payload_len = 0
+2025-12-05 15:01:50,304 DEBUG      Forwarding segment with delay of 38ms
+2025-12-05 15:01:50,343 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:50,343 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:50,343 DEBUG      Forwarding segment with delay of 43ms
+2025-12-05 15:01:50,387 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:50,387 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:50,387 DEBUG      Forwarding segment with delay of 33ms
+2025-12-05 15:01:50,421 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:50,421 DEBUG      	type = 0, seq = 1, ack = 0, payload_len = 1394
+2025-12-05 15:01:50,421 DEBUG      Forwarding segment with delay of 45ms
+2025-12-05 15:01:50,468 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:50,468 DEBUG      	type = 1, seq = 0, ack = 1, payload_len = 0
+2025-12-05 15:01:50,468 DEBUG      Forwarding segment with delay of 40ms
+2025-12-05 15:01:50,508 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:50,508 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:50,508 DEBUG      Dropping packet
+2025-12-05 15:01:50,852 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:50,852 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:50,852 DEBUG      Forwarding segment with delay of 47ms
+2025-12-05 15:01:50,900 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:50,900 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:50,900 DEBUG      Dropping packet
+2025-12-05 15:01:51,196 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:51,196 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:51,196 DEBUG      Forwarding segment with delay of 45ms
+2025-12-05 15:01:51,243 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:51,243 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:51,243 DEBUG      Forwarding segment with delay of 43ms
+2025-12-05 15:01:51,287 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:51,287 DEBUG      	type = 0, seq = 1, ack = 0, payload_len = 1394
+2025-12-05 15:01:51,287 DEBUG      Forwarding segment with delay of 38ms
+2025-12-05 15:01:51,326 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:51,326 DEBUG      	type = 1, seq = 0, ack = 1, payload_len = 0
+2025-12-05 15:01:51,326 DEBUG      Forwarding segment with delay of 40ms
+2025-12-05 15:01:51,367 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:51,368 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:51,368 DEBUG      Forwarding segment with delay of 37ms
+2025-12-05 15:01:51,406 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:51,406 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:51,406 DEBUG      Forwarding segment with delay of 42ms
+2025-12-05 15:01:51,449 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:51,449 DEBUG      	type = 0, seq = 1, ack = 0, payload_len = 1394
+2025-12-05 15:01:51,449 DEBUG      Forwarding segment with delay of 39ms
+2025-12-05 15:01:51,489 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:51,489 DEBUG      	type = 1, seq = 0, ack = 1, payload_len = 0
+2025-12-05 15:01:51,489 DEBUG      Forwarding segment with delay of 40ms
+2025-12-05 15:01:51,530 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:51,531 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:51,531 DEBUG      Dropping packet
+2025-12-05 15:01:51,900 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:51,900 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:51,900 DEBUG      Dropping packet
+2025-12-05 15:01:52,268 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:52,268 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:52,268 DEBUG      Forwarding segment with delay of 40ms
+2025-12-05 15:01:52,309 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:52,309 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:52,309 DEBUG      Dropping packet
+2025-12-05 15:01:52,636 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:52,636 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:52,636 DEBUG      Forwarding segment with delay of 37ms
+2025-12-05 15:01:52,674 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:52,674 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:52,674 DEBUG      Forwarding segment with delay of 39ms
+2025-12-05 15:01:52,714 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:52,714 DEBUG      	type = 0, seq = 1, ack = 0, payload_len = 1394
+2025-12-05 15:01:52,714 DEBUG      Forwarding segment with delay of 37ms
+2025-12-05 15:01:52,752 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:52,752 DEBUG      	type = 1, seq = 0, ack = 1, payload_len = 0
+2025-12-05 15:01:52,752 DEBUG      Forwarding segment with delay of 38ms
+2025-12-05 15:01:52,791 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:52,791 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:52,791 DEBUG      Forwarding segment with delay of 34ms
+2025-12-05 15:01:52,826 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:52,826 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:52,826 DEBUG      Dropping packet
+2025-12-05 15:01:53,124 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:53,124 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:53,124 DEBUG      Dropping packet
+2025-12-05 15:01:53,452 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:53,452 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:53,452 DEBUG      Forwarding segment with delay of 35ms
+2025-12-05 15:01:53,488 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:53,489 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:53,489 DEBUG      Dropping packet
+2025-12-05 15:01:53,780 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:53,780 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:53,780 DEBUG      Forwarding segment with delay of 44ms
+2025-12-05 15:01:53,825 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:53,825 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:53,825 DEBUG      Forwarding segment with delay of 50ms
+2025-12-05 15:01:53,877 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:53,877 DEBUG      	type = 0, seq = 1, ack = 0, payload_len = 1394
+2025-12-05 15:01:53,877 DEBUG      Dropping packet
+2025-12-05 15:01:54,172 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:54,172 DEBUG      	type = 0, seq = 1, ack = 0, payload_len = 1394
+2025-12-05 15:01:54,172 DEBUG      Dropping packet
+2025-12-05 15:01:54,468 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:54,468 DEBUG      	type = 0, seq = 1, ack = 0, payload_len = 1394
+2025-12-05 15:01:54,468 DEBUG      Forwarding segment with delay of 42ms
+2025-12-05 15:01:54,512 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:54,512 DEBUG      	type = 1, seq = 0, ack = 1, payload_len = 0
+2025-12-05 15:01:54,512 DEBUG      Forwarding segment with delay of 41ms
+2025-12-05 15:01:54,554 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:54,554 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:54,554 DEBUG      Forwarding segment with delay of 37ms
+2025-12-05 15:01:54,591 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:54,592 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:54,592 DEBUG      Dropping packet
+2025-12-05 15:01:54,828 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:54,828 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:54,829 DEBUG      Forwarding segment with delay of 40ms
+2025-12-05 15:01:54,869 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:54,869 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:54,869 DEBUG      Forwarding segment with delay of 39ms
+2025-12-05 15:01:54,909 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:54,909 DEBUG      	type = 0, seq = 1, ack = 0, payload_len = 1394
+2025-12-05 15:01:54,910 DEBUG      Forwarding segment with delay of 35ms
+2025-12-05 15:01:54,946 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:54,946 DEBUG      	type = 1, seq = 0, ack = 1, payload_len = 0
+2025-12-05 15:01:54,946 DEBUG      Forwarding segment with delay of 32ms
+2025-12-05 15:01:54,979 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:54,979 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:54,979 DEBUG      Forwarding segment with delay of 43ms
+2025-12-05 15:01:55,023 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:55,023 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:55,023 DEBUG      Dropping packet
+2025-12-05 15:01:55,228 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:55,228 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:55,228 DEBUG      Dropping packet
+2025-12-05 15:01:55,476 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:55,476 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:55,476 DEBUG      Forwarding segment with delay of 42ms
+2025-12-05 15:01:55,520 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:55,520 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:55,520 DEBUG      Dropping packet
+2025-12-05 15:01:55,724 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:55,724 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:55,724 DEBUG      Forwarding segment with delay of 40ms
+2025-12-05 15:01:55,766 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:55,766 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:55,766 DEBUG      Forwarding segment with delay of 35ms
+2025-12-05 15:01:55,802 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:55,802 DEBUG      	type = 0, seq = 1, ack = 0, payload_len = 1394
+2025-12-05 15:01:55,802 DEBUG      Forwarding segment with delay of 41ms
+2025-12-05 15:01:55,844 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:55,844 DEBUG      	type = 1, seq = 0, ack = 1, payload_len = 0
+2025-12-05 15:01:55,844 DEBUG      Forwarding segment with delay of 41ms
+2025-12-05 15:01:55,886 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:55,886 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:55,886 DEBUG      Forwarding segment with delay of 40ms
+2025-12-05 15:01:55,928 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:55,928 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:55,928 DEBUG      Forwarding segment with delay of 38ms
+2025-12-05 15:01:55,967 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:55,967 DEBUG      	type = 0, seq = 1, ack = 0, payload_len = 1394
+2025-12-05 15:01:55,967 DEBUG      Forwarding segment with delay of 34ms
+2025-12-05 15:01:56,002 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:56,002 DEBUG      	type = 1, seq = 0, ack = 1, payload_len = 0
+2025-12-05 15:01:56,002 DEBUG      Dropping packet
+2025-12-05 15:01:56,156 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:56,156 DEBUG      	type = 0, seq = 1, ack = 0, payload_len = 1394
+2025-12-05 15:01:56,156 DEBUG      Forwarding segment with delay of 30ms
+2025-12-05 15:01:56,187 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:56,188 DEBUG      	type = 1, seq = 0, ack = 1, payload_len = 0
+2025-12-05 15:01:56,188 DEBUG      Forwarding segment with delay of 47ms
+2025-12-05 15:01:56,236 DEBUG      Received 1400 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:56,236 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 1394
+2025-12-05 15:01:56,236 DEBUG      Forwarding segment with delay of 35ms
+2025-12-05 15:01:56,272 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:56,272 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 15:01:56,272 DEBUG      Forwarding segment with delay of 39ms
+2025-12-05 15:01:56,312 DEBUG      Received 201 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:56,313 DEBUG      	type = 0, seq = 1, ack = 0, payload_len = 195
+2025-12-05 15:01:56,313 DEBUG      Forwarding segment with delay of 34ms
+2025-12-05 15:01:56,347 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:56,348 DEBUG      	type = 1, seq = 0, ack = 1, payload_len = 0
+2025-12-05 15:01:56,348 DEBUG      Forwarding segment with delay of 38ms
+2025-12-05 15:01:56,387 DEBUG      Received 6 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:56,387 DEBUG      	type = 3, seq = 4, ack = 0, payload_len = 0
+2025-12-05 15:01:56,387 DEBUG      Forwarding segment with delay of 46ms
+2025-12-05 15:01:56,434 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:56,434 DEBUG      	type = 1, seq = 0, ack = 4, payload_len = 0
+2025-12-05 15:01:56,434 DEBUG      Dropping packet
+2025-12-05 15:01:56,548 DEBUG      Received 6 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:56,548 DEBUG      	type = 3, seq = 4, ack = 0, payload_len = 0
+2025-12-05 15:01:56,548 DEBUG      Dropping packet
+2025-12-05 15:01:56,708 DEBUG      Received 6 byte segment from ('127.0.0.1', 49890)
+2025-12-05 15:01:56,708 DEBUG      	type = 3, seq = 4, ack = 0, payload_len = 0
+2025-12-05 15:01:56,708 DEBUG      Forwarding segment with delay of 32ms
+2025-12-05 15:01:56,742 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 15:01:56,742 DEBUG      	type = 1, seq = 0, ack = 4, payload_len = 0
+2025-12-05 15:01:56,742 DEBUG      Forwarding segment with delay of 41ms

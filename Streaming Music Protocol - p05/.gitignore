@@ -1,0 +1,14 @@
+music-server
+client/target/
+
+*.mp3
+
+*.o
+*.class
+*.jar
+
+*.swp
+.DS_Store
+*.dSYM
+.nfs*
+.vscode

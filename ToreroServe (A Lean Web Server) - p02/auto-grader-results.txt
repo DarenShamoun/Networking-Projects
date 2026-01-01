@@ -1,0 +1,14 @@
+======================================================
+Submission Time: Tue Oct 14 13:25:24 2025 -0700
+
+File Integrity Checks: (Every file should say OK)
+----------------------
+index.html: OK
+styled.html: OK
+monorail.jpg: OK
+pic.html: OK
+tux.png: OK
+usd-logo.gif: OK
+misc/additional/endtoend.pdf: OK
+misc/additional/index.html: OK
+misc/additional/paper.html: OK

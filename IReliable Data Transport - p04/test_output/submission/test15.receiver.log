@@ -1,0 +1,163 @@
+2025-12-05 15:01:27.991 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:01:27.992 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:27.992 [Info] (set_timeout_length) Setting timeout to 240 ms
+2025-12-05 15:01:28.236 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:01:28.236 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:28.243 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:01:28.243 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:28.475 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:01:28.475 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:28.552 [Info] (accept_connection) Connection established successfully
+2025-12-05 15:01:28.552 [Info] (accept_connection) Connection successfully established
+2025-12-05 15:01:28.552 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:29.296 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:29.297 [Info] (receive_data) Received segment: {RDT_DATA: seq=0, ack=0, payload=1394 bytes}
+2025-12-05 15:01:29.297 [Debug] (send_ack) sending ACK(0)
+2025-12-05 15:01:29.297 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:29.297 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:29.297 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:29.377 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:29.377 [Info] (receive_data) Received segment: {RDT_DATA: seq=1, ack=0, payload=1394 bytes}
+2025-12-05 15:01:29.377 [Debug] (send_ack) sending ACK(1)
+2025-12-05 15:01:29.377 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:29.377 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:29.377 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:30.013 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:30.013 [Info] (receive_data) Received segment: {RDT_DATA: seq=1, ack=0, payload=1394 bytes}
+2025-12-05 15:01:30.013 [Debug] (send_ack) sending ACK(1)
+2025-12-05 15:01:30.013 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:32.256 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:32.256 [Info] (receive_data) Received segment: {RDT_DATA: seq=1, ack=0, payload=1394 bytes}
+2025-12-05 15:01:32.256 [Debug] (send_ack) sending ACK(1)
+2025-12-05 15:01:32.256 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:32.577 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:32.577 [Info] (receive_data) Received segment: {RDT_DATA: seq=1, ack=0, payload=1394 bytes}
+2025-12-05 15:01:32.577 [Debug] (send_ack) sending ACK(1)
+2025-12-05 15:01:32.577 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:32.657 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:32.657 [Info] (receive_data) Received segment: {RDT_DATA: seq=0, ack=0, payload=1394 bytes}
+2025-12-05 15:01:32.657 [Debug] (send_ack) sending ACK(0)
+2025-12-05 15:01:32.657 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:32.657 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:32.657 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:32.735 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:32.735 [Info] (receive_data) Received segment: {RDT_DATA: seq=1, ack=0, payload=1394 bytes}
+2025-12-05 15:01:32.735 [Debug] (send_ack) sending ACK(1)
+2025-12-05 15:01:32.735 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:32.735 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:32.735 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:33.202 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:33.202 [Info] (receive_data) Received segment: {RDT_DATA: seq=0, ack=0, payload=1394 bytes}
+2025-12-05 15:01:33.202 [Debug] (send_ack) sending ACK(0)
+2025-12-05 15:01:33.202 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:33.202 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:33.202 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:33.285 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:33.285 [Info] (receive_data) Received segment: {RDT_DATA: seq=1, ack=0, payload=1394 bytes}
+2025-12-05 15:01:33.285 [Debug] (send_ack) sending ACK(1)
+2025-12-05 15:01:33.285 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:33.285 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:33.285 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:33.374 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:33.374 [Info] (receive_data) Received segment: {RDT_DATA: seq=0, ack=0, payload=1394 bytes}
+2025-12-05 15:01:33.374 [Debug] (send_ack) sending ACK(0)
+2025-12-05 15:01:33.374 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:33.374 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:33.374 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:33.447 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:33.447 [Info] (receive_data) Received segment: {RDT_DATA: seq=1, ack=0, payload=1394 bytes}
+2025-12-05 15:01:33.447 [Debug] (send_ack) sending ACK(1)
+2025-12-05 15:01:33.447 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:33.447 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:33.447 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:33.532 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:33.532 [Info] (receive_data) Received segment: {RDT_DATA: seq=0, ack=0, payload=1394 bytes}
+2025-12-05 15:01:33.532 [Debug] (send_ack) sending ACK(0)
+2025-12-05 15:01:33.532 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:33.532 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:33.532 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:34.488 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:34.488 [Info] (receive_data) Received segment: {RDT_DATA: seq=0, ack=0, payload=1394 bytes}
+2025-12-05 15:01:34.488 [Debug] (send_ack) sending ACK(0)
+2025-12-05 15:01:34.488 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:35.131 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:35.131 [Info] (receive_data) Received segment: {RDT_DATA: seq=0, ack=0, payload=1394 bytes}
+2025-12-05 15:01:35.131 [Debug] (send_ack) sending ACK(0)
+2025-12-05 15:01:35.131 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:35.214 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:35.214 [Info] (receive_data) Received segment: {RDT_DATA: seq=1, ack=0, payload=1394 bytes}
+2025-12-05 15:01:35.214 [Debug] (send_ack) sending ACK(1)
+2025-12-05 15:01:35.214 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:35.214 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:35.214 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:35.293 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:35.293 [Info] (receive_data) Received segment: {RDT_DATA: seq=0, ack=0, payload=1394 bytes}
+2025-12-05 15:01:35.293 [Debug] (send_ack) sending ACK(0)
+2025-12-05 15:01:35.293 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:35.293 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:35.293 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:35.570 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:35.570 [Info] (receive_data) Received segment: {RDT_DATA: seq=0, ack=0, payload=1394 bytes}
+2025-12-05 15:01:35.570 [Debug] (send_ack) sending ACK(0)
+2025-12-05 15:01:35.570 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:35.915 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:35.915 [Info] (receive_data) Received segment: {RDT_DATA: seq=1, ack=0, payload=1394 bytes}
+2025-12-05 15:01:35.915 [Debug] (send_ack) sending ACK(1)
+2025-12-05 15:01:35.915 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:35.915 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:35.915 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:36.003 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:36.003 [Info] (receive_data) Received segment: {RDT_DATA: seq=0, ack=0, payload=1394 bytes}
+2025-12-05 15:01:36.003 [Debug] (send_ack) sending ACK(0)
+2025-12-05 15:01:36.003 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:36.003 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:36.003 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:36.087 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:36.087 [Info] (receive_data) Received segment: {RDT_DATA: seq=1, ack=0, payload=1394 bytes}
+2025-12-05 15:01:36.087 [Debug] (send_ack) sending ACK(1)
+2025-12-05 15:01:36.087 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:36.088 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:36.088 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:36.295 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:36.295 [Info] (receive_data) Received segment: {RDT_DATA: seq=1, ack=0, payload=1394 bytes}
+2025-12-05 15:01:36.295 [Debug] (send_ack) sending ACK(1)
+2025-12-05 15:01:36.295 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:36.371 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:36.371 [Info] (receive_data) Received segment: {RDT_DATA: seq=0, ack=0, payload=1394 bytes}
+2025-12-05 15:01:36.371 [Debug] (send_ack) sending ACK(0)
+2025-12-05 15:01:36.371 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:36.371 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:36.371 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:36.763 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:36.763 [Info] (receive_data) Received segment: {RDT_DATA: seq=0, ack=0, payload=1394 bytes}
+2025-12-05 15:01:36.763 [Debug] (send_ack) sending ACK(0)
+2025-12-05 15:01:36.763 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:36.847 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:36.847 [Info] (receive_data) Received segment: {RDT_DATA: seq=1, ack=0, payload=1394 bytes}
+2025-12-05 15:01:36.847 [Debug] (send_ack) sending ACK(1)
+2025-12-05 15:01:36.847 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:36.847 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:36.847 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:36.922 [Debug] (receive_data) Received 1400 bytes of data.
+2025-12-05 15:01:36.922 [Info] (receive_data) Received segment: {RDT_DATA: seq=0, ack=0, payload=1394 bytes}
+2025-12-05 15:01:36.922 [Debug] (send_ack) sending ACK(0)
+2025-12-05 15:01:36.922 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:36.922 [Info] (main) received 1394 bytes of app data
+2025-12-05 15:01:36.922 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:37.162 [Debug] (receive_data) Received 201 bytes of data.
+2025-12-05 15:01:37.163 [Info] (receive_data) Received segment: {RDT_DATA: seq=1, ack=0, payload=195 bytes}
+2025-12-05 15:01:37.163 [Debug] (send_ack) sending ACK(1)
+2025-12-05 15:01:37.163 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:01:37.163 [Info] (main) received 195 bytes of app data
+2025-12-05 15:01:37.163 [Info] (set_timeout_length) Setting timeout to 0 ms
+2025-12-05 15:01:37.240 [Debug] (receive_data) Received 6 bytes of data.
+2025-12-05 15:01:37.240 [Info] (receive_data) Received segment: {RDT_CLOSE: seq=4, ack=0, payload=0 bytes}
+2025-12-05 15:01:37.240 [Debug] (receive_data) Received close request.
+2025-12-05 15:01:37.240 [Debug] (send_ack) sending ACK(4)
+2025-12-05 15:01:37.240 [Debug] (send) Unreliable send of 6 bytes of data
+
+Received 23893 bytes in 8.68991 seconds (2749.51 Bps)
+
+Finished receiving file, closing socket.
+2025-12-05 15:01:37.242 [Debug] (close_connection) Receiving closing its connection.
+2025-12-05 15:01:37.242 [Info] (set_timeout_length) Setting timeout to 2000 ms

@@ -1,0 +1,4 @@
+Overall Grade: 0.5 (FAIL: Minor modification(s) required.)
+
+Additional Notes:
+- FAIL: Call to send doesn't check return value for error.

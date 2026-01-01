@@ -1,0 +1,18 @@
+# executables
+torero-serve
+regex_example
+thread_example
+
+# ignore tmp directory
+tmp
+
+# common c++ things
+*.o
+
+# vim swap file
+*.swp
+
+# misc undesirable files/dirs
+*.dSYM
+.DS_Store
+.nfs*

@@ -1,0 +1,76 @@
+==23754== Memcheck, a memory error detector
+==23754== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==23754== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==23754== Command: ./torero-serve 7100 WWW
+==23754== Parent PID: 23729
+==23754== 
+==23754== 
+==23754== Process terminating with default action of signal 15 (SIGTERM)
+==23754==    at 0x4C2D4CF: accept (accept.c:26)
+==23754==    by 0x123FCC: ServerSocket::acceptConnection() (ServerSocket.cpp:113)
+==23754==    by 0x10E34D: runServer(unsigned short, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) (torero-serve.cpp:348)
+==23754==    by 0x10DFC3: main (main.cpp:51)
+==23754== 
+==23754== HEAP SUMMARY:
+==23754==     in use at exit: 86,296 bytes in 23 blocks
+==23754==   total heap usage: 3,090 allocs, 3,067 frees, 428,677 bytes allocated
+==23754== 
+==23754== 288 bytes in 1 blocks are possibly lost in loss record 14 of 22
+==23754==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==23754==    by 0x40147D9: calloc (rtld-malloc.h:44)
+==23754==    by 0x40147D9: allocate_dtv (dl-tls.c:375)
+==23754==    by 0x40147D9: _dl_allocate_tls (dl-tls.c:634)
+==23754==    by 0x4B9B7B4: allocate_stack (allocatestack.c:430)
+==23754==    by 0x4B9B7B4: pthread_create@@GLIBC_2.34 (pthread_create.c:647)
+==23754==    by 0x495B388: std::thread::_M_start_thread(std::unique_ptr<std::thread::_State, std::default_delete<std::thread::_State> >, void (*)()) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.32)
+==23754==    by 0x111D19: std::thread::thread<void (&)(BoundedBuffer&), std::reference_wrapper<BoundedBuffer>, void>(void (&)(BoundedBuffer&), std::reference_wrapper<BoundedBuffer>&&) (std_thread.h:143)
+==23754==    by 0x10E2D9: runServer(unsigned short, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) (torero-serve.cpp:336)
+==23754==    by 0x10DFC3: main (main.cpp:51)
+==23754== 
+==23754== 288 bytes in 1 blocks are possibly lost in loss record 15 of 22
+==23754==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==23754==    by 0x40147D9: calloc (rtld-malloc.h:44)
+==23754==    by 0x40147D9: allocate_dtv (dl-tls.c:375)
+==23754==    by 0x40147D9: _dl_allocate_tls (dl-tls.c:634)
+==23754==    by 0x4B9B7B4: allocate_stack (allocatestack.c:430)
+==23754==    by 0x4B9B7B4: pthread_create@@GLIBC_2.34 (pthread_create.c:647)
+==23754==    by 0x495B388: std::thread::_M_start_thread(std::unique_ptr<std::thread::_State, std::default_delete<std::thread::_State> >, void (*)()) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.32)
+==23754==    by 0x111D19: std::thread::thread<void (&)(BoundedBuffer&), std::reference_wrapper<BoundedBuffer>, void>(void (&)(BoundedBuffer&), std::reference_wrapper<BoundedBuffer>&&) (std_thread.h:143)
+==23754==    by 0x10E2F4: runServer(unsigned short, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) (torero-serve.cpp:337)
+==23754==    by 0x10DFC3: main (main.cpp:51)
+==23754== 
+==23754== 288 bytes in 1 blocks are possibly lost in loss record 16 of 22
+==23754==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==23754==    by 0x40147D9: calloc (rtld-malloc.h:44)
+==23754==    by 0x40147D9: allocate_dtv (dl-tls.c:375)
+==23754==    by 0x40147D9: _dl_allocate_tls (dl-tls.c:634)
+==23754==    by 0x4B9B7B4: allocate_stack (allocatestack.c:430)
+==23754==    by 0x4B9B7B4: pthread_create@@GLIBC_2.34 (pthread_create.c:647)
+==23754==    by 0x495B388: std::thread::_M_start_thread(std::unique_ptr<std::thread::_State, std::default_delete<std::thread::_State> >, void (*)()) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.32)
+==23754==    by 0x111D19: std::thread::thread<void (&)(BoundedBuffer&), std::reference_wrapper<BoundedBuffer>, void>(void (&)(BoundedBuffer&), std::reference_wrapper<BoundedBuffer>&&) (std_thread.h:143)
+==23754==    by 0x10E30F: runServer(unsigned short, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) (torero-serve.cpp:338)
+==23754==    by 0x10DFC3: main (main.cpp:51)
+==23754== 
+==23754== 288 bytes in 1 blocks are possibly lost in loss record 17 of 22
+==23754==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==23754==    by 0x40147D9: calloc (rtld-malloc.h:44)
+==23754==    by 0x40147D9: allocate_dtv (dl-tls.c:375)
+==23754==    by 0x40147D9: _dl_allocate_tls (dl-tls.c:634)
+==23754==    by 0x4B9B7B4: allocate_stack (allocatestack.c:430)
+==23754==    by 0x4B9B7B4: pthread_create@@GLIBC_2.34 (pthread_create.c:647)
+==23754==    by 0x495B388: std::thread::_M_start_thread(std::unique_ptr<std::thread::_State, std::default_delete<std::thread::_State> >, void (*)()) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.32)
+==23754==    by 0x111D19: std::thread::thread<void (&)(BoundedBuffer&), std::reference_wrapper<BoundedBuffer>, void>(void (&)(BoundedBuffer&), std::reference_wrapper<BoundedBuffer>&&) (std_thread.h:143)
+==23754==    by 0x10E32A: runServer(unsigned short, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) (torero-serve.cpp:339)
+==23754==    by 0x10DFC3: main (main.cpp:51)
+==23754== 
+==23754== LEAK SUMMARY:
+==23754==    definitely lost: 0 bytes in 0 blocks
+==23754==    indirectly lost: 0 bytes in 0 blocks
+==23754==      possibly lost: 1,152 bytes in 4 blocks
+==23754==    still reachable: 85,144 bytes in 19 blocks
+==23754==         suppressed: 0 bytes in 0 blocks
+==23754== Reachable blocks (those to which a pointer was found) are not shown.
+==23754== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==23754== 
+==23754== For lists of detected and suppressed errors, rerun with: -s
+==23754== ERROR SUMMARY: 4 errors from 4 contexts (suppressed: 0 from 0)

@@ -1,0 +1,26 @@
+2025-12-05 14:59:44,660 INFO       Starting UDP proxy...
+2025-12-05 14:59:44,660 INFO       Src: 127.0.0.1:8099
+2025-12-05 14:59:44,660 INFO       Dst: 127.0.0.1:9099
+2025-12-05 14:59:44,660 INFO       Loss Rate: 10.0%
+2025-12-05 14:59:44,660 INFO       Median Delay: 40ms
+2025-12-05 14:59:46,646 DEBUG      Received 6 byte segment from ('127.0.0.1', 53399)
+2025-12-05 14:59:46,646 DEBUG      	type = 2, seq = 0, ack = 0, payload_len = 0
+2025-12-05 14:59:46,646 DEBUG      Forwarding segment with delay of 38ms
+2025-12-05 14:59:46,685 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 14:59:46,685 DEBUG      	type = 1, seq = 0, ack = 2, payload_len = 0
+2025-12-05 14:59:46,685 DEBUG      Forwarding segment with delay of 40ms
+2025-12-05 14:59:46,726 DEBUG      Received 6 byte segment from ('127.0.0.1', 53399)
+2025-12-05 14:59:46,726 DEBUG      	type = 1, seq = 0, ack = 3, payload_len = 0
+2025-12-05 14:59:46,726 DEBUG      Forwarding segment with delay of 40ms
+2025-12-05 14:59:46,767 DEBUG      Received 116 byte segment from ('127.0.0.1', 53399)
+2025-12-05 14:59:46,767 DEBUG      	type = 0, seq = 0, ack = 0, payload_len = 110
+2025-12-05 14:59:46,767 DEBUG      Forwarding segment with delay of 37ms
+2025-12-05 14:59:46,805 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 14:59:46,805 DEBUG      	type = 1, seq = 0, ack = 0, payload_len = 0
+2025-12-05 14:59:46,805 DEBUG      Forwarding segment with delay of 42ms
+2025-12-05 14:59:46,848 DEBUG      Received 6 byte segment from ('127.0.0.1', 53399)
+2025-12-05 14:59:46,848 DEBUG      	type = 3, seq = 4, ack = 0, payload_len = 0
+2025-12-05 14:59:46,848 DEBUG      Forwarding segment with delay of 40ms
+2025-12-05 14:59:46,889 DEBUG      Received 6 byte segment from ('127.0.0.1', 9099)
+2025-12-05 14:59:46,889 DEBUG      	type = 1, seq = 0, ack = 4, payload_len = 0
+2025-12-05 14:59:46,889 DEBUG      Forwarding segment with delay of 45ms

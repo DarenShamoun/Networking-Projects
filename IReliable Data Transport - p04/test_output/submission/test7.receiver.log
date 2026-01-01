@@ -1,0 +1,89 @@
+2025-12-05 15:00:16.454 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:16.454 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:16.454 [Info] (set_timeout_length) Setting timeout to 240 ms
+2025-12-05 15:00:16.700 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:16.700 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:16.719 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:16.964 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:16.964 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:16.988 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:17.232 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:17.476 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:17.476 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:17.724 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:17.724 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:17.745 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:17.756 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:18.004 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:18.004 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:18.026 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:18.267 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:18.268 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:18.515 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:18.516 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:18.519 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:18.764 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:18.764 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:19.012 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:19.012 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:19.032 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:19.276 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:19.276 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:19.278 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:19.523 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:19.524 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:19.542 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:19.788 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:19.788 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:19.791 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:19.810 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:20.052 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:20.052 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:20.300 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:20.300 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:20.547 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:20.548 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:20.796 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:20.796 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:20.798 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:21.044 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:21.044 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:21.048 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:21.292 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:21.292 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:21.294 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:21.540 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:21.540 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:21.788 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:21.788 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:22.036 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:22.036 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:22.057 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:22.299 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:22.300 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:22.302 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:22.324 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:22.572 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:22.572 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:22.820 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:22.820 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:22.840 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:23.084 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:23.084 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:23.332 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:23.332 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:23.580 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:23.580 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:23.583 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:23.604 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:23.846 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:24.092 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:24.092 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:24.340 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:24.340 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:24.588 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:24.588 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:24.608 [Warn] (accept_connection) Unexpected segment
+2025-12-05 15:00:24.852 [Debug] (send_ack) sending ACK(2)
+2025-12-05 15:00:24.852 [Debug] (send) Unreliable send of 6 bytes of data
+2025-12-05 15:00:24.856 [Warn] (accept_connection) Unexpected segment
